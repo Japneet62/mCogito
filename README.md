@@ -1,5 +1,4 @@
-## ------------------------------- mKogito-preprocessing ------------------------------- ### 
-**Project:** Mobile Cognition (mCogito) 
+##  Mobile Cognition (mCogito) 
 
 **Abstract:** 
 
