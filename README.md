@@ -14,6 +14,7 @@
 7. figural reasoning task - FRT 
   
 **Script Description:**
+
 1.CleanRawDataForOneParticipant.R - data cleaning and preprocessing for one participant
 2.CleanRawDataForMultParticipants.R - data cleaning and preprocessing for all partiipants
 
