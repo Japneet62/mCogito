@@ -12,12 +12,9 @@
 5. sustained attention to response task - SART
 6. instrumental activities of daily living questionnaire - iADL 
 7. figural reasoning task - FRT 
-
-### Other variables 
-#### response time - "testname" + "_rTime"
   
-### Script Description:
-#### 1.CleanRawDataForOneParticipant
-#### 2.CleanRawDataForMultParticipants
+**Script Description:**
+1.CleanRawDataForOneParticipant.R - data cleaning and preprocessing for one participant
+2.CleanRawDataForMultParticipants.R - data cleaning and preprocessing for all partiipants
 
 
