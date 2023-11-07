@@ -1,5 +1,7 @@
 ## ------------------------------- mKogito-preprocessing ------------------------------- ### 
-### Project description: Mobile Cognition (mKogito) is aimed at testing cognitive impairments in 
+**Project:** Mobile Cognition (mCogito) 
+**Abstract:** 
+
 ### stroke patients by developing mobile-based psychometric tools. It includes the following 
 ### psychometric tests:
 
