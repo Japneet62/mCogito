@@ -1,6 +1,6 @@
 ##  Mobile Cognition (mCogito) 
 
-**Abstract:** https://Japneet62.github.io/mCogito/<path/to/file.pdf>
+**Abstract:** https://Japneet62.github.io/mCogito/Abstract_mCogito.pdf>
 
 ### stroke patients by developing mobile-based psychometric tools. It includes the following 
 ### psychometric tests:
